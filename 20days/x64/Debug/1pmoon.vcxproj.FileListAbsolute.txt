@@ -1,0 +1,2 @@
+C:\Users\Camelot\source\repos\1pmoon\x64\Debug\1pmoon.exe
+C:\Users\Camelot\source\repos\1pmoon\x64\Debug\1pmoon.pdb
