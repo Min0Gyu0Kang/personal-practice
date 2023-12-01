@@ -1,0 +1,4 @@
+﻿  oven clock.c
+C:\Users\Camelot\Documents\boj\codetest\codetest\oven clock.c(21,1): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
+C:\Users\Camelot\Documents\boj\codetest\codetest\oven clock.c(22,1): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
+  codetest.vcxproj -> C:\Users\Camelot\Documents\boj\codetest\codetest\x64\Debug\codetest.exe
